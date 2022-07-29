@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: Give Your customers human feeling touch **Like Never Before**
+  title: Automate your planning **Agile Production**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy
     eirmod tempor invidunt ut labore et dolore magna
   image: images/screenshots/banner-shot.png
