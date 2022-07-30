@@ -102,9 +102,9 @@ achivement:
   - name: Increase in <br> production throughput
     count: "10"
     extension: "%"
-  - name: Employees <br> Work Here
-    count: "3000"
-    extension: "+"
+  - name: Increase in <br> resource utilization
+    count: "30"
+    extension: "%"
   services:
   - name: Fully Secure And Hacking Free
     icon: far fa-thumbs-up
