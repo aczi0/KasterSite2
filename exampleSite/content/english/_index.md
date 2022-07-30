@@ -37,16 +37,14 @@ clients_logo_slider:
   - images/brands/06-colored.png
 homepage_tab:
   enable: true
-  title: How **it Works**
+  title: How it works
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
   tablist:
-  - name: Task Management
-    title: Task **Management**
+  - name: Digital Operations Builder
+    title: Digital Operations Builder
     image: images/screenshots/how-it-works-1.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Build your virtual production logic and rules.
     button:
       enable: true
       label: View More
