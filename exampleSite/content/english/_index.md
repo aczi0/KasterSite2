@@ -116,7 +116,7 @@ achivement:
     icon: fas fa-shield-alt
 workflow:
   enable: true
-  title: Create an automated **workflow by setting**
+  title: Create atteinable and optimal **production plans**
   image: images/screenshots/03.png
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
