@@ -121,8 +121,8 @@ workflow:
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
 about_us:
-  enable: true
-  title: Who Are We And **What Is Our Identity?**
+  enable: false
+  title: Why Kaster?
   image: images/about/01.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
