@@ -99,9 +99,9 @@ achivement:
   - name: Increase in <br> schedule atteinment
     count: "50"
     extension: "%"
-  - name: More Real <br> Active users
+  - name: Increase in <br> production throughput
     count: "10"
-    extension: M+
+    extension: "%"
   - name: Employees <br> Work Here
     count: "3000"
     extension: "+"
