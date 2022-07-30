@@ -19,8 +19,8 @@ funfacts:
   - name: Launched in
     count: "2022"
     extension: ''
-  - name: Our product powers
-    count: "1000"
+  - name: Production Plans Generated
+    count: "750"
     extension: "+"
   - name: served customers
     count: "15"
