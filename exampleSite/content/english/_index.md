@@ -76,7 +76,7 @@ homepage_tab:
       link: how-it-works
 tools:
   enable: true
-  title: Integrate the **tools you already use**
+  title: Fully integrated
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
   logos:
