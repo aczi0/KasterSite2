@@ -91,14 +91,14 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: Average yearly growth rate **across our clients We able to achive**
+  title: Unlock your new productivity standards.
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
     et
   funfacts:
-  - name: Years Of <br> Experience
-    count: "24"
-    extension: "+"
+  - name: Increase in schedule atteinment
+    count: "50"
+    extension: "%"
   - name: More Real <br> Active users
     count: "10"
     extension: M+
