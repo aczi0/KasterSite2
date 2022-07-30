@@ -27,7 +27,7 @@ enable = true
 label = "Sign Up"
 link = ""
 [navigation_button_linked]
-enable = true
+enable = false
 label = "Log In"
 link = ""
 [preloader]
