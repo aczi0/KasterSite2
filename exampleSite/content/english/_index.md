@@ -66,12 +66,10 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Task Collaboration
-    title: Task **Collaboration**
+  - name: Workforce Planning
+    title: Workforce Planning
     image: images/screenshots/how-it-works-1.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Fully integrate your workforce to your operations.
     button:
       enable: true
       label: View More
