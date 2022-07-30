@@ -23,7 +23,7 @@ enable = true
 label = "Get Started With Us"
 link = "contact"
 [navigation_button_bordered]
-enable = true
+enable = false
 label = "Sign Up"
 link = ""
 [navigation_button_linked]
