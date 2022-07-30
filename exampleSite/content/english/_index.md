@@ -58,12 +58,10 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Project Analytics
-    title: Project **Analytics**
+  - name: Real-Time Planning
+    title: Real-Time Planning
     image: images/screenshots/04.png
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Plan in real time
     button:
       enable: true
       label: View More
