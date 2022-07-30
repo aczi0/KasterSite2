@@ -6,9 +6,7 @@ contact_info:
   enable: true
   title: Our Contact Info
   address_list:
-  - gothesaasgo@gmail.com
-  - "(207) 555-0119"
-  - 3891 Ranchview Dr. Richardson Main Road Near Amazon, California 62639
+  - hello@kaster.ca
 services:
   enable: true
   title: With Gossas you can
