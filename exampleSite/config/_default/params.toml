@@ -20,7 +20,7 @@ enable = true
 title = "Get in touch with us **and see how we can put Kaster to work for you**"
 [footer_cta_button]
 enable = true
-label = "Get Started With Us"
+label = "Book a call with us"
 link = "contact"
 [navigation_button_bordered]
 enable = false
