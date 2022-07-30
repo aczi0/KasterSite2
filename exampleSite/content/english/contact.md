@@ -8,7 +8,7 @@ contact_info:
   address_list:
   - hello@kaster.ca
 services:
-  enable: true
+  enable: false
   title: With Gossas you can
   service_list:
   - Focus critical developer resources on your core business
