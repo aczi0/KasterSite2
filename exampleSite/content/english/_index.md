@@ -1,9 +1,10 @@
 ---
 banner:
   enable: true
-  title: Automate your planning **Agile Production**
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy
-    eirmod tempor invidunt ut labore et dolore magna
+  title: Optimize and automate your **production planning**
+  content: Having idle resources in a tight labor market is unforgiving. **Kaster**
+    unlocks the full potential of your production facilities by augmenting your planners
+    decision processes.
   image: images/screenshots/banner-shot.png
   video:
     enable: false
@@ -138,7 +139,7 @@ about_us:
   - Get an overview of Habit Calendars admiral general.
   - Start building habit with Habitify on platform to new
 testimonial:
-  enable: true
+  enable: false
   title: What Our **Client says**
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
