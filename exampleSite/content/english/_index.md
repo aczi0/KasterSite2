@@ -49,12 +49,11 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Built In Chat
-    title: Built In **Chat**
+  - name: Main Production Plan
+    title: Main Production Plan
     image: images/screenshots/03.png
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Initialize your main production plan with the optimal sequence based
+      on your digital operations build, company objectives and constraints.
     button:
       enable: true
       label: View More
