@@ -17,7 +17,7 @@ enable = false
 expire_days = 2
 [footer_call_to_action]
 enable = true
-title = "See how we can put Kaster to work for you."
+title = "Ready to put Kaster to work?"
 [footer_cta_button]
 enable = true
 label = "Book a call with us"
