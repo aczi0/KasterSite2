@@ -31,7 +31,7 @@ vision:
     et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
     takimata sanctus est Lorem ipsum dolor sit amet orem ipsum dolor sit amet
 featured_testimonial:
-  enable: true
+  enable: false
   name: Marsh Angela Costa
   designation: CEO, Trello
   quote: "“Copper gives us the ease to have people hop in where they need to, to get
