@@ -96,7 +96,7 @@ achivement:
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
     et
   funfacts:
-  - name: Increase in schedule atteinment
+  - name: Increase in <br> schedule atteinment
     count: "50"
     extension: "%"
   - name: More Real <br> Active users
