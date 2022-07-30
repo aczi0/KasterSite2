@@ -22,15 +22,9 @@ funfacts:
   - name: Production Plans Generated
     count: "750"
     extension: "+"
-  - name: served customers
-    count: "15"
-    extension: M+
-  - name: Made by hand in
-    count: "250"
-    extension: "+"
 vision:
   enable: true
-  title: What Are The Main **Vision Of Company?**
+  title: Our **Vision**
   image: images/about/03.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
