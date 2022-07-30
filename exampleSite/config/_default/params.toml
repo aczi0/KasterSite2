@@ -17,7 +17,7 @@ enable = false
 expire_days = 2
 [footer_call_to_action]
 enable = true
-title = "Join 75,000+ growing business That **Use Copper To Their Brand**"
+title = "Get in touch with us **and see how we can put Kaster to work for you**"
 [footer_cta_button]
 enable = true
 label = "Get Started With Us"
