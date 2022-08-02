@@ -108,8 +108,8 @@ achivement:
   services:
   - name: Easy to implement
     icon: far fa-thumbs-up
-  - name: Always Having A Great Supports
-    icon: far fa-comment-dots
+  - name: Increased agility when facing disruptions
+    icon: arrows-split-up-and-left
   - name: Build with Time Balanceing
     icon: fas fa-film
   - name: Fully Prepared with Safe Condition
