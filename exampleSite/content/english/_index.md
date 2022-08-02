@@ -112,7 +112,7 @@ achivement:
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Workforce Planning
     icon: fas fa-film
-  - name: Fully Prepared with Safe Condition
+  - name: Optimal real time production plans
     icon: fas fa-shield-alt
 workflow:
   enable: true
