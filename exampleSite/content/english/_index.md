@@ -106,7 +106,7 @@ achivement:
     count: "30"
     extension: "%"
   services:
-  - name: Fully Secure And Hacking Free
+  - name: Easy to implement
     icon: far fa-thumbs-up
   - name: Always Having A Great Supports
     icon: far fa-comment-dots
