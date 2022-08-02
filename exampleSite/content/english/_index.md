@@ -5,7 +5,7 @@ banner:
   content: Having idle resources in a tight labor market is unforgiving. **Kaster**
     unlocks the full potential of your production facilities by augmenting your planners
     decision processes.
-  image: images/screenshots/banner-shot.png
+  image: images/screenshots/demopic.png
   video:
     enable: false
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
