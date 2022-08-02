@@ -110,7 +110,7 @@ achivement:
     icon: far fa-thumbs-up
   - name: Increased agility when facing disruptions
     icon: fa-solid fa-arrows-split-up-and-left
-  - name: Build with Time Balanceing
+  - name: Workforce Planning
     icon: fas fa-film
   - name: Fully Prepared with Safe Condition
     icon: fas fa-shield-alt
