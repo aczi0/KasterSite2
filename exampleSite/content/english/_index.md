@@ -46,7 +46,7 @@ homepage_tab:
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
-    image: images/screenshots/operations_model.png
+    image: images/operations_model.png
     content: The low-code operations builder allows your planners to model their own
       operations and start planning right away. The modeling platform comes with a
       set of predefined logic rules and constraints that are based on industrial research
