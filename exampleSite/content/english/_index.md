@@ -38,8 +38,11 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  content: "*Kaster* cuts down the implementation cost and need for expert modeler
+    by providing a low-code operations modeling tool, allowing your planners to design
+    digitally your operations. By integrating to your systems, the tool will be able
+    to optimize your production plans and make your planning more robust by having
+    real-time decision support and scenario recommendations."
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
