@@ -121,7 +121,7 @@ achivement:
   services:
   - name: Shortened implementation and reduction in consultant costs
     icon: fa-solid fa-arrows-split-up-and-left
-  - name: Increased agility when facing disruptions
+  - name: Operational agility against disruptions
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Workforce Planning
     icon: fas fa-film
