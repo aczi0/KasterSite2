@@ -38,7 +38,7 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: "*Kaster* cuts down the implementation cost and need for expert modeler
+  content: "**Kaster** cuts down the implementation cost and need for expert modeler
     by providing a low-code operations modeling tool, allowing your planners to design
     digitally your operations. By integrating to your systems, the tool will be able
     to optimize your production plans and make your planning more robust by having
