@@ -67,7 +67,11 @@ homepage_tab:
   - name: Real-Time Planning
     title: Real-Time Planning
     image: images/screenshots/realtime.png
-    content: Plan in real time
+    content: Production times varies for many reasons. This is why it's crucial to
+      compound on this effect and ensure to stay on the right path. With real-time
+      optimization, you can choose different factors that can affect your throughput
+      such as overtime buffers, lateness acceptance, or simply by prioritizing specific
+      products.
     button:
       enable: true
       label: View More
