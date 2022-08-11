@@ -120,7 +120,7 @@ achivement:
     extension: "%"
   services:
   - name: Easy to implement
-    icon: far fa-thumbs-up
+    icon: fa-thin fa-arrows-split-up-and-left
   - name: Increased agility when facing disruptions
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Workforce Planning
