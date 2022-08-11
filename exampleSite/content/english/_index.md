@@ -59,7 +59,7 @@ homepage_tab:
     title: Main Production Plan
     image: images/screenshots/03.png
     content: Initialize your main production plan with the optimal sequence based
-      on your digital operations build, company objectives and constraints.
+      on your  company objectives and constraints.
     button:
       enable: true
       label: View More
