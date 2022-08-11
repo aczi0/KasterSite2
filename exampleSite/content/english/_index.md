@@ -119,7 +119,7 @@ achivement:
     count: "30"
     extension: "%"
   services:
-  - name: Easy to implement
+  - name: Shortened implementation and reduction in consultant costs
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Increased agility when facing disruptions
     icon: fa-solid fa-arrows-split-up-and-left
