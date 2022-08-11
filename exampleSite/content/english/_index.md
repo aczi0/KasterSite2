@@ -79,7 +79,10 @@ homepage_tab:
   - name: Workforce Planning
     title: Workforce Planning
     image: images/screenshots/how-it-works-1.jpg
-    content: Fully integrate your workforce to your operations.
+    content: An optimal plan is worthless without equal execution. Having idle labour
+      is also a crime in the current market. This is why *Kaster* provides you with
+      a workforce planning tool that let's you schedule, per shift, your operators,
+      based on the optimal daily or weekly plan.
     button:
       enable: true
       label: View More
