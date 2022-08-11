@@ -47,7 +47,10 @@ homepage_tab:
   - name: Digital Operations Builder
     title: Digital Operations Builder
     image: images/screenshots/how-it-works-1.jpg
-    content: Build your virtual production logic and rules.
+    content: The low-code operations builder allows your planners to model their own
+      operations and start planning right away. The modeling platform comes with a
+      set of predefined logic rules and constraints that are based on industrial research
+      and can be easily customization to the fullest to represent your unique challenges.
     button:
       enable: true
       label: View More
