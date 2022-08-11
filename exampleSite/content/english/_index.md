@@ -57,7 +57,7 @@ homepage_tab:
       link: how-it-works
   - name: Main Production Plan
     title: Main Production Plan
-    image: images/screenshots/03.png
+    image: images/screenshots/MP.png
     content: Initialize your main production plan with the optimal sequence based
       on your  company objectives and constraints.
     button:
