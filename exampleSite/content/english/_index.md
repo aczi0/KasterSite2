@@ -66,7 +66,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: images/screenshots/04.png
+    image: images/screenshots/realtime.png
     content: Plan in real time
     button:
       enable: true
