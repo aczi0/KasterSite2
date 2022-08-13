@@ -105,13 +105,12 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: Unlock your new productivity standards.
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et
+  title: The true vision for Advanced Planning Systems.
+  content: Stop using consultant and expensive systems to reinvent the wheel, when
+    you can **steer it yourself**.
   funfacts:
-  - name: Increase in <br> schedule atteinment
-    count: "50"
+  - name: 'Reduction in<br> implementation time '
+    count: "80"
     extension: "%"
   - name: Increase in <br> production throughput
     count: "10"
