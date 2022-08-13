@@ -20,8 +20,8 @@ funfacts:
   - name: Launched in
     count: "2022"
     extension: ''
-  - name: Production Plans Generated
-    count: "750"
+  - name: Production constraints added
+    count: "25"
     extension: "+"
 vision:
   enable: true
