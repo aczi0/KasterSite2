@@ -30,10 +30,9 @@ vision:
   enable: true
   title: Our **Vision**
   image: images/about/03.jpg
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-    takimata sanctus est Lorem ipsum dolor sit amet orem ipsum dolor sit amet
+  content: 'We believe that by augmenting the production planners toolkit with Kaster
+    we can play an active role in increasing access to medication and vaccines across
+    the globe. '
 featured_testimonial:
   enable: false
   name: Marsh Angela Costa
