@@ -1,10 +1,12 @@
 ---
 banner:
   enable: true
-  title: Optimize and automate your **production planning**
+  title: The first **no-code** operations modeling tool that let's you optimize your
+    production **planning and recovery**.
   content: Having idle resources in a tight labor market is unforgiving. **Kaster**
     unlocks the full potential of your production facilities by augmenting your planners
-    decision processes.
+    decision processes and giving them the proper tools to design their own digital
+    operations, and start planning efficiently right away.
   image: images/realtime.png
   video:
     enable: false
@@ -123,7 +125,7 @@ achivement:
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Operational agility against disruptions
     icon: fa-solid fa-arrows-split-up-and-left
-  - name: Workforce Planning
+  - name: 'Integrated operations for '
     icon: fas fa-film
   - name: Optimal real time production plans
     icon: fas fa-shield-alt
