@@ -1,8 +1,7 @@
 ---
 banner:
   enable: true
-  title: The first **no-code** digital operations planning and optimization tool for
-    resilient pharmaceutical production operations.
+  title: The first **no-code** digital operations planning and scheduling tool
   content: Having idle resources in a tight labor market is unforgiving. **Kaster**
     unlocks the full potential of your production facilities by augmenting your planners
     decision processes and giving them the proper tools to design their own digital
