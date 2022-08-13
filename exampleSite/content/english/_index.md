@@ -125,7 +125,7 @@ achivement:
   - name: Shortened implementation and reduction in consultant costs
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Operational agility against disruptions
-    icon: fa-solid fa-arrows-split-up-and-left
+    icon: fas fa-dice-d20
   - name: 'Integrated operations for '
     icon: fas fa-film
   - name: Optimal real time production plans
