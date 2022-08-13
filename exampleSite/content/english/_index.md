@@ -122,11 +122,11 @@ achivement:
     count: "20"
     extension: "%"
   services:
-  - name: Shortened implementation and reduction in consultant costs
+  - name: ''
     icon: fa-solid fa-arrows-split-up-and-left
   - name: Production agility against disruptions
     icon: fas fa-dice-d20
-  - name: 'Integrated operations for '
+  - name: Integrated operations and resources
     icon: fas fa-film
   - name: Optimal real time production plans
     icon: fas fa-shield-alt
