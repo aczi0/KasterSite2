@@ -126,7 +126,7 @@ achivement:
   - name: Production agility against disruptions
     icon: ''
   - name: Integrated operations and resources
-    icon: fas fa-film
+    icon: ''
   - name: Optimal real time production plans
     icon: fas fa-shield-alt
 workflow:
