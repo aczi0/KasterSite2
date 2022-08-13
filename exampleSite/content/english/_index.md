@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  title: The first **no-code** operations modeling tool that let's you optimize your
-    production **planning and recovery**.
+  title: The first **no-code** digital operations planning and optimization tool for
+    resilient pharmaceutical production operations.
   content: Having idle resources in a tight labor market is unforgiving. **Kaster**
     unlocks the full potential of your production facilities by augmenting your planners
     decision processes and giving them the proper tools to design their own digital
@@ -41,7 +41,7 @@ homepage_tab:
   enable: true
   title: How it works
   content: "**Kaster** cuts down the implementation cost and need for expert modeller
-    by providing a low-code operations modelling tool, allowing your planners to design
+    by providing a no-code operations modeling tool, allowing your planners to design
     digitally your operations. By integrating to your systems, the tool will be able
     to optimize your production plans and make your planning more robust by having
     real-time decision support and scenario recommendations."
