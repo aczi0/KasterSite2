@@ -122,8 +122,8 @@ achivement:
     count: "20"
     extension: "%"
   services:
-  - name: ''
-    icon: fa-solid fa-arrows-split-up-and-left
+  - name: Multi-criteria optimization
+    icon: fas-arrows-split-up-and-left
   - name: Production agility against disruptions
     icon: fas fa-dice-d20
   - name: Integrated operations and resources
