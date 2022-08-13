@@ -124,7 +124,7 @@ achivement:
   - name: Multi-criteria optimization
     icon: ''
   - name: Production agility against disruptions
-    icon: fas fa-dice-d20
+    icon: ''
   - name: Integrated operations and resources
     icon: fas fa-film
   - name: Optimal real time production plans
