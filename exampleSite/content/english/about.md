@@ -4,15 +4,16 @@ description: this is meta description
 layout: about
 mission:
   enable: true
-  title: Our mission is to **empower businesses With Tools**
+  title: Our mission is to **empower production planners** with tools to model their
+    operations and plan better.
   image: images/about/02.jpg
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores
+  content: With the high barrier of costly APS implementations, most planners are
+    left with having to resort to Microsoft Excel to plan millions of dollars worth
+    of inventory. By providing them with better tools, we believe that
   bulletpoints:
-  - Habit building in essential steps choose habit Good Things
-  - Get an overview of Habit Calendars admiral general.
-  - Start building habit with Habitify on platform to new
+  - We can make their work more efficient.
+  - We can empower them to implement their own planning tools.
+  - We can create a thriving community of production planners and modelers.
 funfacts:
   enable: true
   funfacts_item:
