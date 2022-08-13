@@ -118,6 +118,9 @@ achivement:
   - name: Increase in <br> resource utilization
     count: "30"
     extension: "%"
+  - name: Reduction in overtime
+    count: "20"
+    extension: "%"
   services:
   - name: Shortened implementation and reduction in consultant costs
     icon: fa-solid fa-arrows-split-up-and-left
