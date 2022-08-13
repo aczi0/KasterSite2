@@ -128,7 +128,7 @@ achivement:
   - name: Integrated operations and resources
     icon: ''
   - name: Optimal real time production plans
-    icon: fas fa-shield-alt
+    icon: ''
 workflow:
   enable: true
   title: Create atteinable and optimal **production plans**
