@@ -23,6 +23,9 @@ funfacts:
   - name: Production constraints added
     count: "25"
     extension: "+"
+  - name: Scheduling objectives implemented
+    count: "5"
+    extension: "+"
 vision:
   enable: true
   title: Our **Vision**
