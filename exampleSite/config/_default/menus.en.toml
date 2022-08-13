@@ -43,17 +43,9 @@ name = "Pricing"
 parent = "Pages"
 url = "pricing/"
 [[main]]
-name = "Pricing 2"
-parent = "Pages"
-url = "pricing-2/"
-[[main]]
 name = "How It Works"
 parent = "Pages"
 url = "how-it-works/"
-[[main]]
-name = "Testimonial"
-parent = "Pages"
-url = "testimonial/"
 [[main]]
 name = "Faq"
 parent = "Pages"
