@@ -80,10 +80,8 @@ homepage_tab:
   - name: Workforce Planning
     title: Workforce Planning
     image: "/images/mp_ini1.png"
-    content: An optimal plan is worthless without equal execution. Having idle labour
-      is also a crime in the current market. This is why **Kaster** provides you with
-      a workforce planning tool that let's you schedule, per shift, your operators,
-      based on the optimal daily or weekly plan.
+    content: "**Kaster** provides you with a workforce planning tool that let's you
+      schedule your operators per shift and let's you in full control of overtime."
     button:
       enable: true
       label: View More
