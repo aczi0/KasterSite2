@@ -47,7 +47,7 @@ homepage_tab:
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
-    image: "/"
+    image: "/images/rtp_monitor2.png"
     content: The no-code operations builder allows your planners to model their own
       operations and start planning right away. The platform comes with a set of predefined
       logic rules and constraints that are based on industrial research and can be
