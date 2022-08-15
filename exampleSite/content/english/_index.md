@@ -58,7 +58,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: "/"
+    image: "/images/rtp_monitor2.png"
     content: Production times varies for many reasons. This is why it's crucial to
       compound on this effect and ensure to stay on the right path. With real-time
       optimization, you can choose different factors that can affect your throughput
