@@ -69,14 +69,14 @@ homepage_tab:
       link: how-it-works
   - name: Disruption Management
     title: Disruption Management
-    image: "/images/update_rtp1.png"
+    image: ''
     content: Adjust your plan in real time to ensure optimality through operational
       variances such as machine breakdown, missing operators, schedule variances and
       rush orders.
     button: ''
   - name: Workforce Planning
     title: Workforce Planning
-    image: "/images/mp_ini1.png"
+    image: ''
     content: An optimal plan is worthless without equal execution. Having idle labour
       is also a crime in the current market. This is why *Kaster* provides you with
       a workforce planning tool that let's you schedule, per shift, your operators,
