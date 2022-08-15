@@ -46,20 +46,11 @@ homepage_tab:
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
-    image: images/operations_model.png
+    image: images/open_logic.png
     content: The no-code operations builder allows your planners to model their own
       operations and start planning right away. The platform comes with a set of predefined
       logic rules and constraints that are based on industrial research and can be
       easily customized to represent your company's unique challenges.
-    button:
-      enable: true
-      label: View More
-      link: how-it-works
-  - name: Main Production Plan
-    title: Main Production Plan
-    image: images/MP.png
-    content: Initialize your main production plan with the optimal sequence based
-      on your  company objectives and constraints.
     button:
       enable: true
       label: View More
@@ -76,6 +67,13 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
+  - name: Disruption Management
+    title: Disruption Management
+    image: ''
+    content: Adjust your plan in real time to ensure optimality through operational
+      variances such as machine breakdown, missing operators, schedule variances and
+      rush orders.
+    button: ''
   - name: Workforce Planning
     title: Workforce Planning
     image: images/screenshots/how-it-works-1.jpg
