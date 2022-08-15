@@ -133,8 +133,8 @@ workflow:
   enable: true
   title: Create atteinable and optimal **production plans**
   image: images/screenshots/03.png
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  content: Don't guesstimate your way into lower production standards. Let Kaster
+    help with your decision process and plan faster, better and with confidence.
 about_us:
   enable: false
   title: Why Kaster?
