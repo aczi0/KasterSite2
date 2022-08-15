@@ -6,7 +6,7 @@ banner:
     unlocks the full potential of your contract pharmaceutical production facilities
     by augmenting your planners decision processes and giving them the proper tools
     to design their own digital operations, and start planning efficiently right away.
-  image: images/realtime.png
+  image: images/rtp_monitor.png
   video:
     enable: false
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
