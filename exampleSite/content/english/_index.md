@@ -127,7 +127,7 @@ achivement:
     icon: ''
   - name: Integrated operations and resources
     icon: ''
-  - name: Optimal real time production plans
+  - name: Optimal dynamic real time production plans
     icon: ''
 workflow:
   enable: true
