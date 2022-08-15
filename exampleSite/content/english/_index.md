@@ -70,7 +70,7 @@ homepage_tab:
       link: how-it-works
   - name: Disruption Management
     title: Disruption Management
-    image: "/"
+    image: "/images/rtp_monitor2.png"
     content: Adjust your plan in real time to ensure optimality through operational
       variances such as machine breakdown, missing operators, schedule variances and
       rush orders.
