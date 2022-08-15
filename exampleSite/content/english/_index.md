@@ -37,13 +37,12 @@ clients_logo_slider:
   - images/brands/05-colored.png
   - images/brands/06-colored.png
 homepage_tab:
-  enable: false
+  enable: true
   title: How it works
-  content: "(test)**Kaster** cuts down the implementation cost and need for expert
-    process consultants to implement an Advanced Planning System by providing a no-code
-    operations modeling tool, allowing your planners to build fully-functional planning
-    systems tailored to your reality and start doing their best job right away, without
-    code. "
+  content: "**Kaster** cuts down the implementation cost and need for expert process
+    consultants to implement an Advanced Planning System by providing a no-code operations
+    modeling tool, allowing your planners to build fully-functional planning systems
+    tailored to your reality and start doing their best job right away, without code. "
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
@@ -79,7 +78,7 @@ homepage_tab:
     title: Workforce Planning
     image: "/images/rtp_monitor2.png"
     content: An optimal plan is worthless without equal execution. Having idle labour
-      is also a crime in the current market. This is why *Kaster* provides you with
+      is also a crime in the current market. This is why **Kaster** provides you with
       a workforce planning tool that let's you schedule, per shift, your operators,
       based on the optimal daily or weekly plan.
     button:
