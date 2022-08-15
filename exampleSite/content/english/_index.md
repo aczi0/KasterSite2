@@ -73,7 +73,10 @@ homepage_tab:
     content: Adjust your plan in real time to ensure optimality through operational
       variances such as machine breakdown, missing operators, schedule variances and
       rush orders.
-    button: ''
+    button:
+      enable: true
+      label: View More
+      link: how-it-works
   - name: Workforce Planning
     title: Workforce Planning
     image: "/images/rtp_monitor2.png"
