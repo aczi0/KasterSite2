@@ -79,7 +79,7 @@ homepage_tab:
       link: how-it-works
   - name: Workforce Planning
     title: Workforce Planning
-    image: "/images/rtp_monitor2.png"
+    image: "/images/mp_ini1.png"
     content: An optimal plan is worthless without equal execution. Having idle labour
       is also a crime in the current market. This is why **Kaster** provides you with
       a workforce planning tool that let's you schedule, per shift, your operators,
