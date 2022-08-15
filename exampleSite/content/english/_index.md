@@ -39,10 +39,11 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: "**Kaster** cuts down the implementation cost and need for expert process
-    consultants to implement an Advanced Planning System by providing a no-code operations
-    modeling tool, allowing your planners to build fully-functional planning systems
-    tailored to your reality and start doing their best job right away, without code. "
+  content: "(test)**Kaster** cuts down the implementation cost and need for expert
+    process consultants to implement an Advanced Planning System by providing a no-code
+    operations modeling tool, allowing your planners to build fully-functional planning
+    systems tailored to your reality and start doing their best job right away, without
+    code. "
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
