@@ -47,7 +47,7 @@ homepage_tab:
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
-    image: ''
+    image: "/"
     content: The no-code operations builder allows your planners to model their own
       operations and start planning right away. The platform comes with a set of predefined
       logic rules and constraints that are based on industrial research and can be
@@ -58,7 +58,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: ''
+    image: "/"
     content: Production times varies for many reasons. This is why it's crucial to
       compound on this effect and ensure to stay on the right path. With real-time
       optimization, you can choose different factors that can affect your throughput
