@@ -37,7 +37,7 @@ clients_logo_slider:
   - images/brands/05-colored.png
   - images/brands/06-colored.png
 homepage_tab:
-  enable: true
+  enable: false
   title: How it works
   content: "(test)**Kaster** cuts down the implementation cost and need for expert
     process consultants to implement an Advanced Planning System by providing a no-code
