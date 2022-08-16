@@ -79,11 +79,13 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Workforce Planning
-    title: Workforce Planning
+  - name: Flexible Planning
+    title: Flexible Planning
     image: "/images/mp_ini1.png"
-    content: "**Kaster** provides you with a workforce planning tool that let's you
-      schedule your operators per shift and let's you in full control of overtime."
+    content: "**Kaster** gives you control to set your own objectives for your weekly
+      plan, be it to reduce over time or find the right balance with production throughput,
+      you decide. Different scenarios can be also be offered to let your planner decide
+      based on their own expertise."
     button:
       enable: true
       label: View More
