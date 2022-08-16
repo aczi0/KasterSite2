@@ -48,10 +48,11 @@ homepage_tab:
   - name: Digital Operations Builder
     title: Digital Operations Builder
     image: "/images/oper_logic.png"
-    content: The no-code operations builder allows your planners to model their own
-      operations and start planning right away. The platform comes with a set of predefined
-      logic rules and constraints that are based on industrial research and can be
-      easily customized to represent your company's unique challenges.
+    content: The platform comes with a set of predefined logic rules and constraints
+      that are based on industrial research and can be easily customized to represent
+      your company's unique challenges. By being able to model your operations on-the-go,
+      your organization can be flexible in terms of product sequence and operations
+      complexity like never before.
     button:
       enable: true
       label: View More
