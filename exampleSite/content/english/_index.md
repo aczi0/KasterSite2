@@ -43,7 +43,7 @@ homepage_tab:
   content: "**Kaster** cuts down the implementation cost and need for expert process
     consultants to implement an Advanced Planning System by providing a no-code operations
     modelling tool, allowing your planners to build fully-functional planning systems
-    tailored to your reality and start doing their best job right away, without code. "
+    tailored to your reality."
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
