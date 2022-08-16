@@ -3,9 +3,10 @@ banner:
   enable: true
   title: The first **no-code** digital operations modeling, planning and scheduling
     tool.
-  content: "**Kaster** unlocks the full potential of your Pharmaceutical Contract
-    Manufacturing Organization production planning capabilities by empowering your
-    planners with tools to model your operations and do their best job right away."
+  content: 'Optimizing the allocation of your production resources in a tight labour
+    market is a critical activity that **Kaster** helps attain faster. We empower
+    your production planners with tools to model your operations and do their best
+    job right away. '
   image: images/rtp_monitor2.png
   video:
     enable: false
