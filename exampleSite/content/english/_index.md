@@ -104,9 +104,9 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: The true vision for Advanced Planning Systems.
-  content: Stop using consultant and expensive systems to reinvent the wheel, when
-    you can **steer it yourself**.
+  title: The true vision for Intelligent Planning Systems.
+  content: Stop using static systems to reinvent the wheel, when you can **steer it
+    yourself**.
   funfacts:
   - name: 'Increase in<br> process visibility '
     count: "100"
