@@ -108,8 +108,8 @@ achivement:
   content: Stop using consultant and expensive systems to reinvent the wheel, when
     you can **steer it yourself**.
   funfacts:
-  - name: 'Reduction in<br> implementation time '
-    count: "80"
+  - name: 'Increase in<br> process visibility '
+    count: "100"
     extension: "%"
   - name: Increase in <br> production throughput
     count: "10"
