@@ -121,7 +121,7 @@ achivement:
     count: "20"
     extension: "%"
   services:
-  - name: Multi-criteria optimization
+  - name: Multi-criteria real-time optimization
     icon: ''
   - name: Production agility against disruptions
     icon: ''
