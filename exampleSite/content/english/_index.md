@@ -38,10 +38,8 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: "**Kaster** cuts down the implementation cost and need for expert process
-    consultants to implement an Advanced Planning System by providing a no-code operations
-    modelling tool, allowing your planners to build fully-functional planning systems
-    tailored to your reality."
+  content: "**Kaster** is an intelligent planning system that uses mathematical optimization
+    to ensure your production plans are always meeting your business objectives."
   tablist:
   - name: Digital Operations Builder
     title: Digital Operations Builder
