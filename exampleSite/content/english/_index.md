@@ -1,11 +1,11 @@
 ---
 banner:
   enable: true
-  title: "**Smart Scheduling** for CDMOs that want to optimize their efficiency."
-  content: "**Kaster** helps plan the allocation and scheduling of your production
-    resources optimally with AI. We empower your production planners with digital
-    tools to model and plan your operations so they can do their best job right away. "
-  image: images/rtp_monitor2.png
+  title: Optimize and automate your **production planning**
+  content: Having idle resources in a tight labor market is unforgiving. **Kaster**
+    unlocks the full potential of your production facilities by augmenting your planners
+    decision processes.
+  image: images/screenshots/banner-shot.png
   video:
     enable: false
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
@@ -38,57 +38,44 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: "**Kaster** is an intelligent planning system that uses mathematical optimization
-    to ensure your production plans are always meeting your business objectives."
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
   tablist:
-  - name: Built for planners
-    title: Built for planners
-    image: "/images/oper_logic.png"
-    content: The platform comes with a set of predefined logic rules and constraints
-      that are based on industrial research and can be easily customized to represent
-      your company's unique challenges. Planners will have access to schedule recommendations
-      based on their preset parameters and allow them to choose which is more realistic
-      to meet set objectives.
+  - name: Digital Operations Builder
+    title: Digital Operations Builder
+    image: images/screenshots/how-it-works-1.jpg
+    content: Build your virtual production logic and rules.
+    button:
+      enable: true
+      label: View More
+      link: how-it-works
+  - name: Main Production Plan
+    title: Main Production Plan
+    image: images/screenshots/03.png
+    content: Initialize your main production plan with the optimal sequence based
+      on your digital operations build, company objectives and constraints.
     button:
       enable: true
       label: View More
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: "/images/rtp_1.png"
-    content: "Overall Equipment Effectiveness varies for many reasons. This is why
-      it's crucial to compound on this effect and ensure to stay on the right path
-      when re-scheduling. \nWith real-time planning, the planners steer their schedules
-      based on different re-scheduling objectives to ensure production is kept optimal,
-      just like a GPS giving you new directions to minimize your time to arrival."
+    image: images/screenshots/04.png
+    content: Plan in real time
     button:
       enable: true
       label: View More
       link: how-it-works
-  - name: Resource Optimization
-    title: Resource Optimization
-    image: "/images/mp_ini1.png"
-    content: In a tight labour market, under utilized resource is a loss on every
-      side. With resource optimization, you can make sure your skilled labour schedules
-      and production schedules are a fit and optimally allocated to reduce overtime
-      and increase job satisfaction.
-    button:
-      enable: true
-      label: View More
-      link: how-it-works
-  - name: Simulations
-    title: Simulations
-    image: "/images/update_rtp1.png"
-    content: "**Kaster** will become your operations digital twin and will help you
-      understand the underlying factors affecting your production environment. With
-      this, you will be able to perform quick what-ifs and see which planning scenario
-      best fits your needs."
+  - name: Workforce Planning
+    title: Workforce Planning
+    image: images/screenshots/how-it-works-1.jpg
+    content: Fully integrate your workforce to your operations.
     button:
       enable: true
       label: View More
       link: how-it-works
 tools:
-  enable: false
+  enable: true
   title: Fully integrated
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
@@ -104,12 +91,13 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: The true vision for Intelligent Planning Systems.
-  content: Stop using static systems to reinvent the wheel, when you can **steer it
-    yourself**.
+  title: Unlock your new productivity standards.
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
+    et
   funfacts:
-  - name: 'Increase in<br> process visibility '
-    count: "100"
+  - name: Increase in <br> schedule atteinment
+    count: "50"
     extension: "%"
   - name: Increase in <br> production throughput
     count: "10"
@@ -118,22 +106,22 @@ achivement:
     count: "30"
     extension: "%"
   services:
-  - name: Multi-criteria real-time optimization
-    icon: ''
-  - name: Production agility against disruptions
-    icon: ''
-  - name: Integrated operations and resources
-    icon: ''
-  - name: Skilled resources optimization and scheduling
-    icon: ''
+  - name: Fully Secure And Hacking Free
+    icon: far fa-thumbs-up
+  - name: Always Having A Great Supports
+    icon: far fa-comment-dots
+  - name: Build with Time Balanceing
+    icon: fas fa-film
+  - name: Fully Prepared with Safe Condition
+    icon: fas fa-shield-alt
 workflow:
   enable: true
-  title: Create attainable and optimal **production plans**
+  title: Create atteinable and optimal **production plans**
   image: images/screenshots/03.png
-  content: Don't guesstimate your way into lower production standards. Let Kaster
-    help with your decision process and plan faster, better and with confidence.
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
 about_us:
-  enable: false
+  enable: true
   title: Why Kaster?
   image: images/about/01.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
