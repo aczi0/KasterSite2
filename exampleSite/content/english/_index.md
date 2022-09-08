@@ -109,8 +109,8 @@ achivement:
     icon: ''
   - name: Production agility against disruptions
     icon: ''
-  - name: Build with Time Balanceing
-    icon: fas fa-film
+  - name: Integrated operations and resources
+    icon: ''
   - name: Fully Prepared with Safe Condition
     icon: fas fa-shield-alt
 workflow:
