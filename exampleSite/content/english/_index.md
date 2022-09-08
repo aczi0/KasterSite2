@@ -65,12 +65,13 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Disruption Management
-    title: Disruption Management
+  - name: Simulations
+    title: Simulations
     image: "/images/update_rtp1.png"
-    content: Adjust your plan in real time to ensure optimality through operational
-      variances such as machine breakdown, missing operators, schedule variances and
-      rush orders.
+    content: "**Kaster** will become your operations digital twin and will help you
+      understand the underlying factors affecting your production environment. With
+      this, you will be able to perform quick what-ifs and see which planning scenario
+      best fits your needs."
     button:
       enable: true
       label: View More
@@ -80,8 +81,7 @@ homepage_tab:
     image: "/images/mp_ini1.png"
     content: "**Kaster** gives you control to set your own objectives for your weekly
       plan, be it to reduce over time or find the right balance with production throughput,
-      you decide. Different scenarios can be also be offered to let your planner decide
-      based on their own expertise."
+      you decide. "
     button:
       enable: true
       label: View More
