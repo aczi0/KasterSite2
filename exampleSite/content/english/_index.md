@@ -107,8 +107,8 @@ achivement:
   services:
   - name: Multi-criteria real-time optimization
     icon: ''
-  - name: Always Having A Great Supports
-    icon: far fa-comment-dots
+  - name: Production agility against disruptions
+    icon: ''
   - name: Build with Time Balanceing
     icon: fas fa-film
   - name: Fully Prepared with Safe Condition
