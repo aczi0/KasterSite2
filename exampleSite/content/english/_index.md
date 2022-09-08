@@ -117,9 +117,6 @@ achivement:
   - name: Increase in <br> resource utilization
     count: "30"
     extension: "%"
-  - name: Reduction in overtime
-    count: "20"
-    extension: "%"
   services:
   - name: Multi-criteria real-time optimization
     icon: ''
@@ -131,7 +128,7 @@ achivement:
     icon: ''
 workflow:
   enable: true
-  title: Create atteinable and optimal **production plans**
+  title: Create attainable and optimal **production plans**
   image: images/screenshots/03.png
   content: Don't guesstimate your way into lower production standards. Let Kaster
     help with your decision process and plan faster, better and with confidence.
