@@ -6,7 +6,7 @@ contact_info:
   enable: true
   title: Our Contact Info
   address_list:
-  - hello@kaster.ca
+  - alexandre.clarizio@kaster.ca
 services:
   enable: false
   title: With Gossas you can
