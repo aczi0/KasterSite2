@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  title: "**Smart Scheduling** for CDMOs that want to optimize their operational efficiency."
-  content: "**Kaster** helps you allocate and schedule your production resources optimally.
-    with AI. We empower your production planners with digital tools to model and plan
-    your operations so they can do their best job right away. "
+  title: "**Smart Scheduling** for CDMOs that want to optimize their efficiency."
+  content: "**Kaster** helps plan the allocation and scheduling of your production
+    resources optimally with AI. We empower your production planners with digital
+    tools to model and plan your operations so they can do their best job right away. "
   image: images/rtp_monitor2.png
   video:
     enable: false
