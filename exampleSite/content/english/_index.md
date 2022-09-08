@@ -41,14 +41,14 @@ homepage_tab:
   content: "**Kaster** is an intelligent planning system that uses mathematical optimization
     to ensure your production plans are always meeting your business objectives."
   tablist:
-  - name: Digital Operations Builder
-    title: Digital Operations Builder
+  - name: Built for planners
+    title: Built for planners
     image: "/images/oper_logic.png"
     content: The platform comes with a set of predefined logic rules and constraints
       that are based on industrial research and can be easily customized to represent
-      your company's unique challenges. By being able to model your operations on-the-go,
-      your organization can be flexible in terms of product sequence and operations
-      complexity like never before.
+      your company's unique challenges. Planners will have access to schedule recommendations
+      based on their preset parameters and allow them to choose which is more realistic
+      to meet set objectives.
     button:
       enable: true
       label: View More
