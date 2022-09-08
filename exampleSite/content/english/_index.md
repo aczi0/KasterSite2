@@ -111,8 +111,8 @@ achivement:
     icon: ''
   - name: Integrated operations and resources
     icon: ''
-  - name: Fully Prepared with Safe Condition
-    icon: fas fa-shield-alt
+  - name: Skilled resources optimization and scheduling
+    icon: ''
 workflow:
   enable: true
   title: Create atteinable and optimal **production plans**
