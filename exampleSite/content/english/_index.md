@@ -75,7 +75,7 @@ homepage_tab:
       label: View More
       link: how-it-works
 tools:
-  enable: true
+  enable: false
   title: Fully integrated
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
