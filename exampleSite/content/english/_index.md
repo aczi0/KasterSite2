@@ -53,6 +53,17 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
+  - name: Resource Optimization
+    title: Resource Optimization
+    image: "/images/mp_ini1.png"
+    content: In a tight labour market, under utilized resource is a loss on every
+      side. With resource optimization, you can make sure your skilled labour schedules
+      and production schedules are a fit and optimally allocated to reduce overtime
+      and increase job satisfaction.
+    button:
+      enable: true
+      label: View More
+      link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
     image: "/images/rtp_1.png"
@@ -72,16 +83,6 @@ homepage_tab:
       understand the underlying factors affecting your production environment. With
       this, you will be able to perform quick what-ifs and see which planning scenario
       best fits your needs."
-    button:
-      enable: true
-      label: View More
-      link: how-it-works
-  - name: Flexible Planning
-    title: Flexible Planning
-    image: "/images/mp_ini1.png"
-    content: "**Kaster** gives you control to set your own objectives for your weekly
-      plan, be it to reduce over time or find the right balance with production throughput,
-      you decide. "
     button:
       enable: true
       label: View More
