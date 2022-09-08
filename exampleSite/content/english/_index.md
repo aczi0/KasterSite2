@@ -92,9 +92,8 @@ tools:
 achivement:
   enable: true
   title: Unlock your new productivity standards.
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et
+  content: Stop using static systems to reinvent the wheel, <br> when you can **steer
+    it yourself.**
   funfacts:
   - name: Increase in <br> schedule atteinment
     count: "50"
@@ -106,8 +105,8 @@ achivement:
     count: "30"
     extension: "%"
   services:
-  - name: Fully Secure And Hacking Free
-    icon: far fa-thumbs-up
+  - name: Multi-criteria real-time optimization
+    icon: ''
   - name: Always Having A Great Supports
     icon: far fa-comment-dots
   - name: Build with Time Balanceing
