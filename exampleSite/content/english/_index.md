@@ -53,6 +53,18 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
+  - name: Real-Time Planning
+    title: Real-Time Planning
+    image: "/images/rtp_1.png"
+    content: "Overall Equipment Effectiveness varies for many reasons. This is why
+      it's crucial to compound on this effect and ensure to stay on the right path
+      when re-scheduling. \nWith real-time planning, the planners steer their schedules
+      based on different re-scheduling objectives to ensure production is kept optimal,
+      just like a GPS giving you new directions to minimize your time to arrival."
+    button:
+      enable: true
+      label: View More
+      link: how-it-works
   - name: Resource Optimization
     title: Resource Optimization
     image: "/images/mp_ini1.png"
@@ -60,18 +72,6 @@ homepage_tab:
       side. With resource optimization, you can make sure your skilled labour schedules
       and production schedules are a fit and optimally allocated to reduce overtime
       and increase job satisfaction.
-    button:
-      enable: true
-      label: View More
-      link: how-it-works
-  - name: Real-Time Planning
-    title: Real-Time Planning
-    image: "/images/rtp_1.png"
-    content: Overall Equipment Effectiveness varies for many reasons. This is why
-      it's crucial to compound on this effect and ensure to stay on the right path
-      when re-scheduling. With real-time planning, you can choose different factors
-      that can affect your throughput such as overtime buffers, lateness acceptance,
-      or simply by prioritizing specific products.
     button:
       enable: true
       label: View More
