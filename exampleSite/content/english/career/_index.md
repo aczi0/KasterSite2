@@ -2,7 +2,7 @@
 title: Career
 description: this is meta description
 intro:
-  enable: true
+  enable: false
   title: Create a world where anyone **belong anywhere**
   image: images/career/01.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus nc, ornare
@@ -14,7 +14,7 @@ intro:
     label: Join Team
     link: "#join-team"
 flexibility:
-  enable: true
+  enable: false
   title: Flexibility to do your **best work from anywhere**
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
@@ -40,7 +40,7 @@ flexibility:
       purus felis arcu. Vitae, turpis tortor faucibus ac suspendisse. Habit building
       inessential steps choose habit Good Things Start building something.
 benifits:
-  enable: true
+  enable: false
   title: Benifits Of **Joining Our Team**
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
@@ -70,7 +70,7 @@ benifits:
     content: 'Lorem ipsum dolor sit amet, consectetur adipisc Nullam sit vel egestas
       in. Duis orci, suspendisse nec phasellus sapien natoque '
 gallery:
-  enable: true
+  enable: false
   item:
   - image: images/career/life-at/01.jpg
     width: "6"
