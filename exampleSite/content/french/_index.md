@@ -45,12 +45,12 @@ homepage_tab:
     aide votre équipe à rester sur la bonne voie en recommandant des séquences de
     production alternatives robustes lorsque vous faites face à des événements inattendus.
   tablist:
-  - name: Task Management
-    title: Task **Management**
+  - name: Conçu pour les planificateurs de production
+    title: Conçu pour les planificateurs de production
     image: images/screenshots/how-it-works-1.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Les planificateurs de production auront immédiatement accès à des plans
+      optimaux en temps réel, ainsi qu'à des recommandations de plans alternatifs
+      afin qu'ils puissent naviguer facilement à travers les ambiguïtés opérationnelles.
     button:
       enable: true
       label: View More
