@@ -3,7 +3,7 @@ name = "Faq"
 url = "faq/"
 weight = 1
 [[footer]]
-name = "Terms & Conditions"
+name = "Termes & Conditions"
 url = "terms-conditions/"
 weight = 2
 [[footer]]
@@ -26,35 +26,3 @@ weight = 4
 name = "Contacte"
 url = "contact/"
 weight = 6
-[[main]]
-hasChildren = true
-name = "Pages"
-weight = 7
-[[main]]
-name = "Career"
-parent = "Pages"
-url = "career/"
-[[main]]
-name = "Pricing"
-parent = "Pages"
-url = "pricing/"
-[[main]]
-name = "Pricing 2"
-parent = "Pages"
-url = "pricing-2/"
-[[main]]
-name = "How It Works"
-parent = "Pages"
-url = "how-it-works/"
-[[main]]
-name = "Testimonial"
-parent = "Pages"
-url = "testimonial/"
-[[main]]
-name = "Faq"
-parent = "Pages"
-url = "faq/"
-[[main]]
-name = "Changelog"
-parent = "Pages"
-url = "changelog/"
