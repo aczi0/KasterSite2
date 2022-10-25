@@ -69,12 +69,14 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Project Analytics
-    title: Project **Analytics**
+  - name: Optimisation des resources
+    title: Optimisation des resources
     image: images/screenshots/04.png
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Dans une période de pénurie de main-d'oeuvre, une ressource sous-utilisée
+      est une perte de tous les côtés. Avec Kaster, vous pouvez vous assurer que vos
+      horaires de main-d'œuvre qualifiée et vos horaires de production sont adaptés
+      et répartis de manière optimale pour réduire les heures supplémentaires et augmenter
+      la satisfaction du travail.
     button:
       enable: true
       label: View More
