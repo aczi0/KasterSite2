@@ -16,7 +16,7 @@ mission:
   - We customize our mathematical engine to reflect their specific business challenges.
   - We help redesigning their production processes with Kaster at it's core.
 funfacts:
-  enable: true
+  enable: false
   funfacts_item:
   - name: Launched in
     count: "2022"
