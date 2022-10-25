@@ -4,24 +4,26 @@ description: this is meta description
 layout: about
 mission:
   enable: true
-  title: Our mission is to **empower businesses With Tools**
+  title: Our mission is to **empower CDMOs With Smart Scheduling Tools**
   image: images/about/02.jpg
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et accusam et justo duo dolores
+  content: By helping CDMOs attain higher production volumes without the need to expand
+    or buy new equipment, we believe that these organizations could do a lot more
+    with what they already have.
   bulletpoints:
-  - Habit building in essential steps choose habit Good Things
-  - Get an overview of Habit Calendars admiral general.
-  - Start building habit with Habitify on platform to new
+  - We help CDMOs figure out how AI can help in their prodction process
+  - We gather the necessary scientific resources to provide an innovative approach
+    to their problem.
+  - We customize our mathematical engine to reflect their specific business challenges.
+  - We help redesigning their production processes with Kaster at it's core.
 funfacts:
   enable: true
   funfacts_item:
   - name: Launched in
     count: "2022"
     extension: ''
-  - name: Production Plans Generated
-    count: "750"
-    extension: "+"
+  - name: 'Optimal plan generation '
+    count: 0.5s
+    extension: "<"
 vision:
   enable: true
   title: Our **Vision**
