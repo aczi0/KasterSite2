@@ -3,7 +3,7 @@ title: Contact Us
 description: this is meta description
 layout: contact
 contact_info:
-  enable: true
+  enable: false
   title: Our Contact Info
   address_list:
   - alexandre.clarizio@kaster.ca
