@@ -139,7 +139,7 @@ workflow:
     Laissez Kaster vous aider dans votre processus de décision et planifiez plus rapidement,
     mieux et en toute confiance.
 about_us:
-  enable: true
+  enable: false
   title: Who Are We And **What Is Our Identity?**
   image: images/about/01.jpg
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -150,7 +150,7 @@ about_us:
   - Get an overview of Habit Calendars admiral general.
   - Start building habit with Habitify on platform to new
 testimonial:
-  enable: true
+  enable: false
   title: What Our **Client says**
   content: Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy
     eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam
