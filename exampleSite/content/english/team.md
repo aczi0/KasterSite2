@@ -20,7 +20,7 @@ team_member:
 - name: Louis-Martin Rousseau, PhD
   image: images/team/03.jpg
   designation: Founding Scientific Advisor
-  group: Advisor
+  group: Advisors
   social:
   - icon: fab fa-linkedin
     link: "#"
