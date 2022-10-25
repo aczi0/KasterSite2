@@ -123,8 +123,8 @@ achivement:
     count: "30"
     extension: "%"
   services:
-  - name: Fully Secure And Hacking Free
-    icon: far fa-thumbs-up
+  - name: Optimisation multi-critère
+    icon: ''
   - name: Always Having A Great Supports
     icon: far fa-comment-dots
   - name: Build with Time Balanceing
