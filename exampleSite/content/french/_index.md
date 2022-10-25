@@ -109,7 +109,7 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: The true vision for Intelligent Planning Systems.
+  title: La vision des systèmes de planification intelligents.
   content: Avec des millions de décisions de planification prises dans une année,
     il est important de s'assurer que chacune d'elles soit optimale.
   funfacts:
