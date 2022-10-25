@@ -23,34 +23,14 @@ name = "Team"
 url = "team/"
 weight = 4
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 5
-[[main]]
 name = "Contact"
 url = "contact/"
 weight = 6
-[[main]]
-hasChildren = true
-name = "Pages"
-weight = 7
 [[main]]
 name = "Career"
 parent = "Pages"
 url = "career/"
 [[main]]
-name = "Pricing"
-parent = "Pages"
-url = "pricing/"
-[[main]]
 name = "How It Works"
 parent = "Pages"
 url = "how-it-works/"
-[[main]]
-name = "Faq"
-parent = "Pages"
-url = "faq/"
-[[main]]
-name = "Changelog"
-parent = "Pages"
-url = "changelog/"
