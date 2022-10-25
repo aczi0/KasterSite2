@@ -127,7 +127,7 @@ achivement:
     icon: ''
   - name: Agilité opérationnelle
     icon: ''
-  - name: Planification intégrée à vos resources
+  - name: Planification intégrée à vos opérations
     icon: ''
   - name: Optimisation des horaires de vos resources formées
     icon: ''
