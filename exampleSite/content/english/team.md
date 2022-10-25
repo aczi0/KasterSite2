@@ -17,16 +17,12 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: "#"
-- name: Kim Domingo
+- name: Louis-Martin Rousseau, PhD
   image: images/team/03.jpg
-  designation: Email Marketer
-  group: marketers
+  designation: Founding Scientific Advisor
+  group: Advisor
   social:
   - icon: fab fa-linkedin
-    link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
     link: "#"
 - name: Angelina Jolie
   image: images/team/04.jpg
