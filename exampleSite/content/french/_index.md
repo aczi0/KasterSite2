@@ -125,8 +125,8 @@ achivement:
   services:
   - name: Optimisation multi-critère
     icon: ''
-  - name: Always Having A Great Supports
-    icon: far fa-comment-dots
+  - name: Agilité opérationnelle
+    icon: ''
   - name: Build with Time Balanceing
     icon: fas fa-film
   - name: Fully Prepared with Safe Condition
