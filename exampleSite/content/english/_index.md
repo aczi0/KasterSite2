@@ -106,8 +106,8 @@ tools:
 achivement:
   enable: true
   title: The true vision for Intelligent Planning Systems.
-  content: Stop using static systems to reinvent the wheel, when you can **steer it
-    yourself**.
+  content: With millions of planning decisions taken in a year, it is important to
+    ensure each of them are optimal.
   funfacts:
   - name: 'Increase in<br> process visibility '
     count: "100"
