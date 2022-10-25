@@ -81,12 +81,13 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Task Collaboration
-    title: Task **Collaboration**
+  - name: Simulations
+    title: Simulations
     image: images/screenshots/how-it-works-1.jpg
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: Kaster est le jumeau numérique de vos opérations et vous aide à comprendre
+      les facteurs sous-jacents affectant votre environnement de production. Avec
+      lui, vous pourrez effectuer des simulations rapides et voir quel scénario de
+      planification correspond le mieux à vos besoins.
     button:
       enable: true
       label: View More
