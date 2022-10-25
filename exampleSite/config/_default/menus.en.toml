@@ -26,7 +26,3 @@ weight = 4
 name = "Contact"
 url = "contact/"
 weight = 6
-[[main]]
-name = "Career"
-parent = "Pages"
-url = "career/"
