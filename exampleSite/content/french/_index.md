@@ -129,8 +129,8 @@ achivement:
     icon: ''
   - name: Planification intégré à vos opérations et resources
     icon: ''
-  - name: Fully Prepared with Safe Condition
-    icon: fas fa-shield-alt
+  - name: Optimisation des horaires de vos resources formées
+    icon: ''
 workflow:
   enable: true
   title: Create an automated **workflow by setting**
