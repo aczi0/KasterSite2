@@ -24,17 +24,13 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: "#"
-- name: Angelina Jolie
+- name: Nadia Lahrichi
   image: images/team/04.jpg
-  designation: Junior Developer
-  group: developers
+  designation: Founding Scientific Advisor
+  group: Advisors
   social:
   - icon: fab fa-linkedin
-    link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
-    link: "#"
+    link: ''
 - name: Tim kook
   image: images/team/05.jpg
   designation: UX/UI Designer
