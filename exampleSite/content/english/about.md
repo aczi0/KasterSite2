@@ -6,9 +6,8 @@ mission:
   enable: true
   title: Our mission is to **empower CDMOs** with **Smart Scheduling Tools**
   image: images/about/02.jpg
-  content: By helping CDMOs attain higher production volumes without the need to expand
-    or buy new equipment, we believe that these organizations could do a lot more
-    with what they already have.
+  content: CDMOs can increase their total production volume without the need to expand
+    or buy new equipment. Our mission is to provide them with the means to do so.
   bulletpoints:
   - We help CDMOs figure out how AI can help in their prodction process
   - We gather the necessary scientific resources to provide an innovative approach
