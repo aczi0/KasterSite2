@@ -16,7 +16,7 @@ banner:
     form_acttion: "#"
     button_label: Request Demo
   button:
-    enable: true
+    enable: false
     icon: images/brands/google.png
     label: Sign Up With Google
     link: "#"
