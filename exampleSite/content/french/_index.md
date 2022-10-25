@@ -116,9 +116,9 @@ achivement:
   - name: Augmentation <br> de la visibilité <br> de vos opérations
     count: "100"
     extension: "%"
-  - name: More Real <br> Active users
+  - name: Augmentation <br> du volume total <br> de production
     count: "10"
-    extension: M+
+    extension: "%"
   - name: Employees <br> Work Here
     count: "3000"
     extension: "+"
