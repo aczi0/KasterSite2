@@ -82,7 +82,7 @@ homepage_tab:
     image: "/images/update_rtp1.png"
     content: "**Kaster** will become your operations digital twin and will help you
       understand the underlying factors affecting your production environment. With
-      this, you will be able to perform quick what-ifs and see which planning scenario
+      it, you will be able to perform quick what-ifs and see which planning scenario
       best fits your needs."
     button:
       enable: true
