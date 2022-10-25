@@ -70,9 +70,9 @@ homepage_tab:
     title: Resource Optimization
     image: "/images/mp_ini1.png"
     content: In a tight labour market, under utilized resource is a loss on every
-      side. With resource optimization, you can make sure your skilled labour schedules
-      and production schedules are a fit and optimally allocated to reduce overtime
-      and increase job satisfaction.
+      side. With Kaster, you can make sure your skilled labour schedules and production
+      schedules are a fit and optimally allocated to reduce overtime and increase
+      job satisfaction.
     button:
       enable: true
       label: View More
