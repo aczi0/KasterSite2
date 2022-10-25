@@ -4,7 +4,7 @@ description: this is meta description
 layout: about
 mission:
   enable: true
-  title: Our mission is to **empower CDMOs With Smart Scheduling Tools**
+  title: Our mission is to **empower CDMOs** with **Smart Scheduling Tools**
   image: images/about/02.jpg
   content: By helping CDMOs attain higher production volumes without the need to expand
     or buy new equipment, we believe that these organizations could do a lot more
