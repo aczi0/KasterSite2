@@ -23,7 +23,7 @@ banner:
     content: No credit card required. Available on [Mac](), [Windows](), [iOS](),
       & [Android]()
 clients_logo_slider:
-  enable: true
+  enable: false
   logos:
   - images/brands/01-colored.png
   - images/brands/02-colored.png
@@ -93,7 +93,7 @@ homepage_tab:
       label: View More
       link: how-it-works
 tools:
-  enable: true
+  enable: false
   title: Integrate the **tools you already use**
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
@@ -109,14 +109,13 @@ tools:
   - images/tools/05.png
 achivement:
   enable: true
-  title: Average yearly growth rate **across our clients We able to achive**
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
-    et
+  title: The true vision for Intelligent Planning Systems.
+  content: Avec des millions de décisions de planification prises dans une année,
+    il est important de s'assurer que chacune d'elles soit optimale.
   funfacts:
-  - name: Years Of <br> Experience
-    count: "24"
-    extension: "+"
+  - name: Augmentation <br> de la visibilité <br> de vos opérations
+    count: "100"
+    extension: "%"
   - name: More Real <br> Active users
     count: "10"
     extension: M+
