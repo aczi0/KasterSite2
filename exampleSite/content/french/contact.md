@@ -1,29 +1,23 @@
 ---
-title : "Contact Us"
-description : "this is meta description"
-layout : "contact"
-draft : false
-
-
-########## Address ###############
+title: Contact Us
+description: this is meta description
+layout: contact
 contact_info:
-  enable : true
-  title : "Our Contact Info"
+  enable: false
+  title: Our Contact Info
   address_list:
-  - "gothesaasgo@gmail.com"
+  - gothesaasgo@gmail.com
   - "(207) 555-0119"
-  - "3891 Ranchview Dr. Richardson Main Road Near Amazon, California 62639"
-
-############ Services ############
+  - 3891 Ranchview Dr. Richardson Main Road Near Amazon, California 62639
 services:
-  enable : true
-  title : "With Gossas you can"
+  enable: false
+  title: With Gossas you can
   service_list:
-  - "Focus critical developer resources on your core business"
-  - "Launch new products faster with less payments code"
-  - "Improve conversion from international customers"
-  
----
+  - Focus critical developer resources on your core business
+  - Launch new products faster with less payments code
+  - Improve conversion from international customers
 
-## Contact **Us**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+---
+## Contactez-nous!
+
+Laissez-nous vos informations pour que nous puissions vous revenir dès que possible.
