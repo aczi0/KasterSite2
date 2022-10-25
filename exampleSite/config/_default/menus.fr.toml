@@ -23,11 +23,7 @@ name = "Équipe"
 url = "team/"
 weight = 4
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 5
-[[main]]
-name = "Contact"
+name = "Contacte"
 url = "contact/"
 weight = 6
 [[main]]
