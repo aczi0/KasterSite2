@@ -1,4 +1,6 @@
 ---
+- id: Footer_cta_button
+  translation: Contactez-nous!
 - id: Footer call to action
   translation: Prêt à mettre Kaster au travail?
 - id: quick_links
