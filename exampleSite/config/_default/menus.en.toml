@@ -30,7 +30,3 @@ weight = 6
 name = "Career"
 parent = "Pages"
 url = "career/"
-[[main]]
-name = "How It Works"
-parent = "Pages"
-url = "how-it-works/"
