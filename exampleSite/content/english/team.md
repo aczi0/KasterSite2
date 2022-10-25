@@ -31,16 +31,12 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: ''
-- name: Tim kook
+- name: Philippe Lussier
   image: images/team/05.jpg
-  designation: UX/UI Designer
-  group: designers
+  designation: High Tech Sales Advisor
+  group: Advisors
   social:
   - icon: fab fa-linkedin
-    link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
     link: "#"
 - name: John Domingo
   image: images/team/06.jpg
