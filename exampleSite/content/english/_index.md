@@ -58,10 +58,10 @@ homepage_tab:
     title: Real-Time Planning
     image: "/images/rtp_1.png"
     content: "Overall Equipment Effectiveness varies for many reasons. This is why
-      it's crucial to compound on this effect and ensure to stay on the right path
-      when re-scheduling. \nWith real-time planning, the planners steer their schedules
-      based on different re-scheduling objectives to ensure production is kept optimal,
-      just like a GPS giving you new directions to minimize your time to arrival."
+      it's crucial to stay on the right path when re-scheduling. \nWith real-time
+      planning, the planners steer their schedules based on different parametrable
+      objectives to ensure production is kept optimal, just like a GPS giving you
+      new directions to minimize your time to arrival."
     button:
       enable: true
       label: View More
