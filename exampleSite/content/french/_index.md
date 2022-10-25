@@ -127,8 +127,8 @@ achivement:
     icon: ''
   - name: Agilité opérationnelle
     icon: ''
-  - name: Build with Time Balanceing
-    icon: fas fa-film
+  - name: Planification intégré à vos opérations et resources
+    icon: ''
   - name: Fully Prepared with Safe Condition
     icon: fas fa-shield-alt
 workflow:
