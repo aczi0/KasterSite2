@@ -15,7 +15,7 @@ name = "Acceuil"
 url = ""
 weight = 1
 [[main]]
-name = "About"
+name = "À Propos"
 url = "about/"
 weight = 2
 [[main]]
