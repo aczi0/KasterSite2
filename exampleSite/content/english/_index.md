@@ -47,11 +47,9 @@ homepage_tab:
   - name: Built for planners
     title: Built for planners
     image: "/images/oper_logic.png"
-    content: The platform comes with a set of predefined logic rules and constraints
-      that are based on industrial research and can be easily customized to represent
-      your company's unique challenges. Planners will have access to schedule recommendations
-      based on their preset parameters and allow them to choose which is more realistic
-      to meet set objectives.
+    content: Production planners will have access to optimal real-time plans right
+      away, along with recommendations for alternative plans so that they can navigate
+      through operational ambiguities easily.
     button:
       enable: true
       label: View More
