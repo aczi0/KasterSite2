@@ -55,12 +55,16 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Built In Chat
-    title: Built In **Chat**
+  - name: Planification en temps réel
+    title: Planification en temps réel
     image: images/screenshots/03.png
-    content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-      eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero
-      eos et accusam et justo duo dolores et ea rebum satet
+    content: L'efficacité globale de vos équipements varie pour de nombreuses raisons.
+      C'est pourquoi il est crucial de rester sur la bonne voie lors de la replanification.
+      Grâce à la planification en temps réel, les planificateurs pourront orienter
+      les horaires de travail en fonction de différents objectifs personnalisés pour
+      s'assurer que la production reste optimale, tout comme un GPS vous donne des
+      directions alternatives après un barrage routier afin de minimiser votre temps
+      d'arrivée.
     button:
       enable: true
       label: View More
