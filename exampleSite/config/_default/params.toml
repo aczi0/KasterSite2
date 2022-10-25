@@ -19,7 +19,7 @@ expire_days = 2
 enable = false
 title = "Ready to put Kaster to work?"
 [footer_cta_button]
-enable = true
+enable = false
 label = "Book a call with us"
 link = "contact"
 [navigation_button_bordered]
