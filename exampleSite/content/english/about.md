@@ -4,35 +4,30 @@ description: this is meta description
 layout: about
 mission:
   enable: true
-  title: Our mission is to **empower production planners** with tools to model their
-    operations and plan better.
+  title: Our mission is to **empower businesses With Tools**
   image: images/about/02.jpg
-  content: With the high barrier of costly APS implementations, most planners are
-    left with having to resort to Microsoft Excel to plan millions of dollars worth
-    of inventory. By providing them with better tools, we believe that
+  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos
+    et accusam et justo duo dolores
   bulletpoints:
-  - We can make their work more efficient.
-  - We can empower them to implement their own planning tools.
-  - We can create a thriving community of production planners and modelers.
+  - Habit building in essential steps choose habit Good Things
+  - Get an overview of Habit Calendars admiral general.
+  - Start building habit with Habitify on platform to new
 funfacts:
   enable: true
   funfacts_item:
   - name: Launched in
     count: "2022"
     extension: ''
-  - name: Production constraints added
-    count: "25"
-    extension: "+"
-  - name: Scheduling objectives implemented
-    count: "5"
+  - name: Production Plans Generated
+    count: "750"
     extension: "+"
 vision:
   enable: true
   title: Our **Vision**
   image: images/about/03.jpg
-  content: 'We believe that by augmenting the production planners toolkit with Kaster
-    we can play an active role in increasing access to medication and vaccines across
-    the globe. '
+  content: To increase global access to medicine and vaccines through corporate, academic
+    and government partnership and the application of research grade AI.
 featured_testimonial:
   enable: false
   name: Marsh Angela Costa
