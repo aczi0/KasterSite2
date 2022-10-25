@@ -7,7 +7,7 @@ name = "Termes & Conditions"
 url = "terms-conditions/"
 weight = 2
 [[footer]]
-name = "Privacy Policy"
+name = "Politique de confidentialité"
 url = "privacy-policy/"
 weight = 3
 [[main]]
