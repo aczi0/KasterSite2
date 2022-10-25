@@ -39,8 +39,10 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: How it works
-  content: "**Kaster** is an intelligent planning system that uses mathematical optimization
-    to ensure your production plans are always meeting your business objectives."
+  content: "**Kaster** uses mathematical optimization to ensure your production plans
+    are always meeting your business objectives. The system's engine helps your team
+    stay on track by recommending robust alternative routes when faced with unexpected
+    events."
   tablist:
   - name: Built for planners
     title: Built for planners
