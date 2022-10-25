@@ -3,49 +3,33 @@ title: Team
 description: this is meta description
 layout: team
 team_member:
-- name: Angelina Jolie
+- name: Alexandre Clarizio, ing., M.Sc.A(c)
   image: images/team/01.jpg
-  designation: Senior Developer
-  group: developers
+  designation: Gestion
+  group: CEO et Fondateur
   social:
   - icon: fab fa-linkedin
     link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
-    link: "#"
-- name: Juley anle
+- name: Marvin Nguyen
   image: images/team/02.jpg
-  designation: Senior Designer
-  group: designers
+  designation: Architecte de logiciel
+  group: Developpeur
   social:
   - icon: fab fa-linkedin
     link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
-    link: "#"
-- name: Kim Domingo
+- name: Louis-Martin Rousseau, PhD
   image: images/team/03.jpg
-  designation: Email Marketer
-  group: marketers
+  designation: Aviseur Scientifique
+  group: Aviseurs
   social:
   - icon: fab fa-linkedin
     link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
-    link: "#"
-- name: Angelina Jolie
+- name: Nadia Lahrichi, PhD
   image: images/team/04.jpg
-  designation: Junior Developer
-  group: developers
+  designation: Aviseur Scientifique
+  group: Aviseurs
   social:
   - icon: fab fa-linkedin
-    link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
     link: "#"
 - name: Tim kook
   image: images/team/05.jpg
