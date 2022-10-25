@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Équipe
 description: this is meta description
 layout: team
 team_member:
