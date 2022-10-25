@@ -19,11 +19,7 @@ name = "À Propos"
 url = "about/"
 weight = 2
 [[main]]
-name = "Services"
-url = "services/"
-weight = 3
-[[main]]
-name = "Team"
+name = "Équipe"
 url = "team/"
 weight = 4
 [[main]]
