@@ -24,7 +24,7 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: "#"
-- name: Nadia Lahrichi
+- name: Nadia Lahrichi, PhD
   image: images/team/04.jpg
   designation: Founding Scientific Advisor
   group: Advisors
