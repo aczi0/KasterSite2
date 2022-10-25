@@ -11,7 +11,7 @@ name = "Politique de confidentialité"
 url = "privacy-policy/"
 weight = 3
 [[main]]
-name = "Acceuil"
+name = "Accueil"
 url = ""
 weight = 1
 [[main]]
