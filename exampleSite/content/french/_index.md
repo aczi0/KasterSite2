@@ -133,10 +133,11 @@ achivement:
     icon: ''
 workflow:
   enable: true
-  title: Create an automated **workflow by setting**
+  title: Créer des plans de production réalisables et optimaux
   image: images/screenshots/03.png
-  content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-    eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+  content: N'estimez pas votre chemin vers des standard de production inférieures.
+    Laissez Kaster vous aider dans votre processus de décision et planifiez plus rapidement,
+    mieux et en toute confiance.
 about_us:
   enable: true
   title: Who Are We And **What Is Our Identity?**
