@@ -37,7 +37,7 @@ clients_logo_slider:
   - images/brands/05-colored.png
   - images/brands/06-colored.png
 homepage_tab:
-  enable: false
+  enable: true
   title: How it works
   content: "**Kaster** uses mathematical optimization to ensure your production plans
     are always meeting your business objectives. The system's engine helps your team
@@ -46,7 +46,7 @@ homepage_tab:
   tablist:
   - name: Built for planners
     title: Built for planners
-    image: "/"
+    image: images/screenshots/how-it-works-1.jpg
     content: Production planners will have access to optimal real-time plans right
       away, along with recommendations for alternative plans so that they can navigate
       through operational ambiguities easily.
@@ -56,7 +56,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: "/"
+    image: images/screenshots/how-it-works-1.jpg
     content: "Overall Equipment Effectiveness varies for many reasons. This is why
       it's crucial to stay on the right path when re-scheduling. \nWith real-time
       planning, the planners steer their schedules based on different custom objectives
@@ -66,19 +66,9 @@ homepage_tab:
       enable: false
       label: View More
       link: how-it-works
-  - name: Disruption Management
-    title: Disruption Management
-    image: "/"
-    content: 'With the help of Kaster, planners will be able to manage seamlessly
-      operational disruption and adjust their plans accordingly. Be it production
-      delays, absenteeism or even rush orders insertion, our engine will re-plan your
-      schedule and reduce the impact on your master plan.
-
-      '
-    button: ''
   - name: Shift Optimization
     title: Shift Optimization
-    image: "/"
+    image: images/screenshots/how-it-works-1.jpg
     content: In a tight labour market, under utilized resource is a loss on every
       side. With Kaster, you can make sure your skilled labour schedules and production
       schedules are a fit and optimally allocated to reduce overtime and increase
