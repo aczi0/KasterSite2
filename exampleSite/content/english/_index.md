@@ -51,7 +51,9 @@ homepage_tab:
       disruption and adjust their plans accordingly. Be it production delays, absenteeism
       or even rush orders insertion, our engine will re-plan your schedule and reduce
       the impact on your master plan.
-    button: ''
+    button:
+      label: View More
+      link: how-it-works
   - name: Built for planners
     title: Built for planners
     image: images/screenshots/how-it-works-1.jpg
