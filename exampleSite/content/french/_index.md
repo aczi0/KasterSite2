@@ -40,10 +40,11 @@ clients_logo_slider:
 homepage_tab:
   enable: true
   title: Comment?
-  content: Kaster utilise l'optimisation mathématique pour s'assurer que vos plans
-    de production répondent toujours à vos objectifs d'affaires. L'engin du système
-    aide votre équipe à rester sur la bonne voie en recommandant des séquences de
-    production alternatives robustes lorsque vous faites face à des événements inattendus.
+  content: "**Kaster** utilise l'optimisation mathématique pour s'assurer que vos
+    plans de production répondent toujours à vos objectifs d'affaires. L'engin du
+    système aide votre équipe à rester sur la bonne voie en recommandant des séquences
+    de production alternatives robustes lorsque vous faites face à des événements
+    inattendus."
   tablist:
   - name: Conçu pour les planificateurs
     title: Conçu pour les planificateurs
