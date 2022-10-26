@@ -53,7 +53,7 @@ homepage_tab:
       optimaux en temps réel, ainsi qu'à des recommandations de plans alternatifs
       afin qu'ils puissent naviguer facilement à travers les ambiguïtés opérationnelles.
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
   - name: Planification en temps réel
