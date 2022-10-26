@@ -14,7 +14,7 @@ banner:
   form:
     enable: true
     form_acttion: "#"
-    button_label: Request Demo
+    button_label: Demander une Démo
   button:
     enable: false
     icon: images/brands/google.png
