@@ -69,8 +69,8 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Optimisation des resources
-    title: Optimisation des resources
+  - name: Optimisation des quarts de travail
+    title: Optimisation des quarts de travail
     image: images/screenshots/04.png
     content: Dans une période de pénurie de main-d'oeuvre, une ressource sous-utilisée
       est une perte de tous les côtés. Avec Kaster, vous pouvez vous assurer que vos
