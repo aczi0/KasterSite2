@@ -66,6 +66,16 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
+  - name: Disruption Management
+    title: Disruption Management
+    image: "/images/rtp_1.png"
+    content: 'With the help of Kaster, planners will be able to manage seamlessly
+      operational disruption and adjust their plans accordingly. Be it production
+      delays, absenteeism or even rush orders insertion, our engine will re-plan your
+      schedule and reduce the impact on your master plan.
+
+      '
+    button: ''
   - name: Resource Optimization
     title: Resource Optimization
     image: "/images/mp_ini1.png"
@@ -73,17 +83,6 @@ homepage_tab:
       side. With Kaster, you can make sure your skilled labour schedules and production
       schedules are a fit and optimally allocated to reduce overtime and increase
       job satisfaction.
-    button:
-      enable: true
-      label: View More
-      link: how-it-works
-  - name: Simulations
-    title: Simulations
-    image: "/images/update_rtp1.png"
-    content: "**Kaster** will become your operations digital twin and will help you
-      understand the underlying factors affecting your production environment. With
-      it, you will be able to perform quick what-ifs and see which planning scenario
-      best fits your needs."
     button:
       enable: true
       label: View More
