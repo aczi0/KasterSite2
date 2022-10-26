@@ -67,7 +67,7 @@ homepage_tab:
       directions alternatives après un barrage routier afin de minimiser votre temps
       d'arrivée.
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
   - name: Optimisation des quarts de travail
