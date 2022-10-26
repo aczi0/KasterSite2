@@ -79,7 +79,7 @@ homepage_tab:
       et répartis de manière optimale pour réduire les heures supplémentaires et augmenter
       la satisfaction du travail.
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
   - name: Gestion des Perturbations
