@@ -78,13 +78,13 @@ homepage_tab:
     button: ''
   - name: Shift Optimization
     title: Shift Optimization
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/"
     content: In a tight labour market, under utilized resource is a loss on every
       side. With Kaster, you can make sure your skilled labour schedules and production
       schedules are a fit and optimally allocated to reduce overtime and increase
       job satisfaction.
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
 tools:
