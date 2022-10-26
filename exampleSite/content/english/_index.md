@@ -37,7 +37,7 @@ clients_logo_slider:
   - images/brands/05-colored.png
   - images/brands/06-colored.png
 homepage_tab:
-  enable: true
+  enable: false
   title: How it works
   content: "**Kaster** uses mathematical optimization to ensure your production plans
     are always meeting your business objectives. The system's engine helps your team
