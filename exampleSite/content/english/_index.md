@@ -44,6 +44,14 @@ homepage_tab:
     stay on track by recommending robust alternative routes when faced with unexpected
     events."
   tablist:
+  - name: Disruption Management
+    title: Disruption Management
+    image: images/screenshots/how-it-works-1.jpg
+    content: With the help of Kaster, planners will be able to manage seamlessly operational
+      disruption and adjust their plans accordingly. Be it production delays, absenteeism
+      or even rush orders insertion, our engine will re-plan your schedule and reduce
+      the impact on your master plan.
+    button: ''
   - name: Built for planners
     title: Built for planners
     image: images/screenshots/how-it-works-1.jpg
