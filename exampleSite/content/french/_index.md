@@ -81,16 +81,16 @@ homepage_tab:
       enable: true
       label: View More
       link: how-it-works
-  - name: Simulations
-    title: Simulations
-    image: images/screenshots/how-it-works-1.jpg
-    content: Kaster est le jumeau numérique de vos opérations et vous aide à comprendre
-      les facteurs sous-jacents affectant votre environnement de production. Avec
-      lui, vous pourrez effectuer des simulations rapides et voir quel scénario de
-      planification correspond le mieux à vos besoins.
+  - name: Gestion des Perturbations
+    title: Gestion des Perturbations
+    image: images/screenshots/04.png
+    content: Avec l'aide de Kaster, les planificateurs seront en mesure de gérer en
+      toute confiance les perturbations opérationnelles et pourront ajuster leurs
+      plans en conséquence. Qu'il s'agisse de retards de production, d'absentéisme
+      ou même d'insertion de commandes urgentes, notre engin replanifiera votre horaire
+      et réduira l'impact sur votre plan directeur.
     button:
-      enable: true
-      label: View More
+      label: Voir Plus
       link: how-it-works
 tools:
   enable: false
