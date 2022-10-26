@@ -1,4 +1,6 @@
 ---
+- id: Request Demo
+  translation: Demander une Démo
 - id: quick_links
   translation: Liens rapides
 - id: social_links
