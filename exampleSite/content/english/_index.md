@@ -1,9 +1,9 @@
 ---
 banner:
   enable: true
-  title: "**Robust and Agile Production Scheduling** for CDMOs."
+  title: "**Agile Production Scheduling** for CDMOs."
   content: "**Kaster** is an intelligent planning software for production planning
-    and scheduling. Allocate your resources and maximise your production throughput
+    and scheduling. Allocate your resources and maximize your production throughput
     in seconds with AI. We empower your production planners with digital tools to
     \ so they can do their best job right away. "
   image: images/rtp_monitor2.png
