@@ -67,7 +67,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/images/real-time-schedule.png"
     content: "Overall Equipment Effectiveness varies for many reasons. This is why
       it's crucial to stay on the right path when re-scheduling. \nWith real-time
       planning, the planners steer their schedules based on different custom objectives
