@@ -45,8 +45,8 @@ homepage_tab:
     aide votre équipe à rester sur la bonne voie en recommandant des séquences de
     production alternatives robustes lorsque vous faites face à des événements inattendus.
   tablist:
-  - name: Conçu pour les planificateurs de production
-    title: Conçu pour les planificateurs de production
+  - name: Conçu pour les planificateurs
+    title: Conçu pour les planificateurs
     image: images/screenshots/how-it-works-1.jpg
     content: Les planificateurs de production auront immédiatement accès à des plans
       optimaux en temps réel, ainsi qu'à des recommandations de plans alternatifs
