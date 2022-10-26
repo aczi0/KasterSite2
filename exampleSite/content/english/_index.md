@@ -44,22 +44,23 @@ homepage_tab:
     stay on track by recommending robust alternative routes when faced with unexpected
     events."
   tablist:
-  - name: Disruption Management
-    title: Disruption Management
-    image: images/screenshots/how-it-works-1.jpg
-    content: With the help of Kaster, planners will be able to manage seamlessly operational
-      disruption and adjust their plans accordingly. Be it production delays, absenteeism
-      or even rush orders insertion, our engine will re-plan your schedule and reduce
-      the impact on your master plan.
-    button:
-      label: View More
-      link: how-it-works
   - name: Built for planners
     title: Built for planners
     image: images/screenshots/how-it-works-1.jpg
     content: Production planners will have access to optimal real-time plans right
       away, along with recommendations for alternative plans so that they can navigate
       through operational ambiguities easily.
+    button:
+      enable: false
+      label: View More
+      link: how-it-works
+  - name: Shift Optimization
+    title: Shift Optimization
+    image: images/screenshots/how-it-works-1.jpg
+    content: In a tight labour market, under utilized resource is a loss on every
+      side. With Kaster, you can make sure your skilled labour schedules and production
+      schedules are a fit and optimally allocated to reduce overtime and increase
+      job satisfaction.
     button:
       enable: false
       label: View More
@@ -76,15 +77,14 @@ homepage_tab:
       enable: false
       label: View More
       link: how-it-works
-  - name: Shift Optimization
-    title: Shift Optimization
+  - name: Disruption Management
+    title: Disruption Management
     image: images/screenshots/how-it-works-1.jpg
-    content: In a tight labour market, under utilized resource is a loss on every
-      side. With Kaster, you can make sure your skilled labour schedules and production
-      schedules are a fit and optimally allocated to reduce overtime and increase
-      job satisfaction.
+    content: With the help of Kaster, planners will be able to manage seamlessly operational
+      disruption and adjust their plans accordingly. Be it production delays, absenteeism
+      or even rush orders insertion, our engine will re-plan your schedule and reduce
+      the impact on your master plan.
     button:
-      enable: false
       label: View More
       link: how-it-works
 tools:
