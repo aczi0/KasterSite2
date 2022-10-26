@@ -56,14 +56,14 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/"
     content: "Overall Equipment Effectiveness varies for many reasons. This is why
       it's crucial to stay on the right path when re-scheduling. \nWith real-time
       planning, the planners steer their schedules based on different custom objectives
       to ensure production is kept optimal, just like a GPS giving you alternate directions
       after a road block to minimize your time to arrival."
     button:
-      enable: true
+      enable: false
       label: View More
       link: how-it-works
   - name: Disruption Management
