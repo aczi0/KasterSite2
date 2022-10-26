@@ -68,7 +68,7 @@ homepage_tab:
       link: how-it-works
   - name: Disruption Management
     title: Disruption Management
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/"
     content: 'With the help of Kaster, planners will be able to manage seamlessly
       operational disruption and adjust their plans accordingly. Be it production
       delays, absenteeism or even rush orders insertion, our engine will re-plan your
