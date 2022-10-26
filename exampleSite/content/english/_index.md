@@ -46,7 +46,7 @@ homepage_tab:
   tablist:
   - name: Built for planners
     title: Built for planners
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/images/update-plan.png"
     content: Production planners will have access to optimal real-time plans right
       away, along with recommendations for alternative plans so that they can navigate
       through operational ambiguities easily.
