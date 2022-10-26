@@ -20,7 +20,7 @@ link = "plugins/aos/aos.js"
 [params.variables]
 black = "#000000"
 dark = "#1D1C21"
-gray = "#CECECE"
+gray = "#696363"
 h1 = "46px"
 h1_md = "38px"
 h2 = "36px"
