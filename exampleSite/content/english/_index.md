@@ -56,7 +56,7 @@ homepage_tab:
       link: how-it-works
   - name: Real-Time Planning
     title: Real-Time Planning
-    image: "/images/rtp_1.png"
+    image: images/screenshots/how-it-works-1.jpg
     content: "Overall Equipment Effectiveness varies for many reasons. This is why
       it's crucial to stay on the right path when re-scheduling. \nWith real-time
       planning, the planners steer their schedules based on different custom objectives
@@ -68,7 +68,7 @@ homepage_tab:
       link: how-it-works
   - name: Disruption Management
     title: Disruption Management
-    image: "/images/rtp_1.png"
+    image: images/screenshots/how-it-works-1.jpg
     content: 'With the help of Kaster, planners will be able to manage seamlessly
       operational disruption and adjust their plans accordingly. Be it production
       delays, absenteeism or even rush orders insertion, our engine will re-plan your
