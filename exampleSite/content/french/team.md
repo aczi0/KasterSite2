@@ -26,7 +26,7 @@ team_member:
     link: "#"
 - name: Nadia Lahrichi, PhD
   image: images/team/04.jpg
-  designation: Aviseur Scientifique
+  designation: Aviseure Scientifique
   group: Aviseurs
   social:
   - icon: fab fa-linkedin
