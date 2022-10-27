@@ -33,8 +33,8 @@ team_member:
     link: "#"
 - name: Philippe Lussier
   image: images/team/05.jpg
-  designation: Aviseur Commercial
-  group: Aviseurs
+  designation: Conseiller Commercial
+  group: Conseillers
   social:
   - icon: fab fa-linkedin
     link: "#"
