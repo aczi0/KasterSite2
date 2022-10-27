@@ -7,7 +7,7 @@ banner:
     volume de production en quelques secondes grâce à l'IA. Nous dotons vos planificateurs
     de production d'outils numériques pour qu'ils puissent faire leur meilleur travail
     immédiatement."
-  image: images/screenshots/banner-shot.png
+  image: "/images/real-time-gray.png"
   video:
     enable: true
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
