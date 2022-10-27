@@ -38,17 +38,6 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: "#"
-- name: John Domingo
-  image: images/team/06.jpg
-  designation: SEO Marketer
-  group: marketers
-  social:
-  - icon: fab fa-linkedin
-    link: "#"
-  - icon: fab fa-twitter
-    link: "#"
-  - icon: fab fa-github
-    link: "#"
 
 ---
 ## **Team and Advisors**
