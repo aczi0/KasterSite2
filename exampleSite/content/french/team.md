@@ -6,7 +6,7 @@ team_member:
 - name: Alexandre Clarizio, ing., M.Sc.A(c)
   image: images/team/01.jpg
   designation: Gestion
-  group: CEO et Fondateur
+  group: CEO
   social:
   - icon: fab fa-linkedin
     link: "#"
