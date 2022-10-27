@@ -48,7 +48,7 @@ homepage_tab:
   tablist:
   - name: Conçu pour les planificateurs
     title: Conçu pour les planificateurs
-    image: images/screenshots/how-it-works-1.jpg
+    image: "/images/update-plan.png"
     content: Les planificateurs de production auront immédiatement accès à des plans
       optimaux en temps réel, ainsi qu'à des recommandations de plans alternatifs
       afin qu'ils puissent naviguer facilement à travers les ambiguïtés opérationnelles.
