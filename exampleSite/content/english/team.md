@@ -5,7 +5,7 @@ layout: team
 team_member:
 - name: Alexandre Clarizio, eng., M.Sc.A(c)
   image: images/team/01.jpg
-  designation: 'CEO '
+  designation: CEO
   group: Management
   social:
   - icon: fab fa-linkedin
