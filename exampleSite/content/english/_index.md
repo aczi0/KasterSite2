@@ -6,7 +6,7 @@ banner:
     and scheduling. Allocate your resources and maximize your production throughput
     in seconds with AI. We empower your production planners with digital tools to
     \ so they can do their best job right away. "
-  image: "/images/real-time-schedule_wide.png"
+  image: "/images/real-time-gray.png"
   video:
     enable: false
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
