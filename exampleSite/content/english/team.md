@@ -11,7 +11,7 @@ team_member:
   - icon: fab fa-linkedin
     link: "#"
 - name: Marvin Nguyen
-  image: images/team/02.jpg
+  image: "/images/marvin.jpg"
   designation: 'Software Architect '
   group: Development
   social:
