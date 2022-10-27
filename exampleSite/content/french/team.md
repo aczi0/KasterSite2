@@ -19,8 +19,8 @@ team_member:
     link: "#"
 - name: Louis-Martin Rousseau, PhD
   image: images/team/03.jpg
-  designation: Aviseur Scientifique
-  group: Aviseurs
+  designation: Conseiller Fondateur Scientifique
+  group: Conseillers
   social:
   - icon: fab fa-linkedin
     link: "#"
