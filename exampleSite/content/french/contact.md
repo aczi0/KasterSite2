@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contactez-nous!
 description: this is meta description
 layout: contact
 contact_info:
