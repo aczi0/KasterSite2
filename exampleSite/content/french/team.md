@@ -33,7 +33,7 @@ team_member:
     link: "#"
 - name: Philippe Lussier
   image: images/team/05.jpg
-  designation: High Tech Sales Advisor
+  designation: Aviseur Commercial
   group: Aviseurs
   social:
   - icon: fab fa-linkedin
