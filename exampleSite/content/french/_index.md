@@ -58,7 +58,7 @@ homepage_tab:
       link: how-it-works
   - name: Planification en temps réel
     title: Planification en temps réel
-    image: images/screenshots/03.png
+    image: "/images/real-time-gray.png"
     content: L'efficacité globale de vos équipements varie pour de nombreuses raisons.
       C'est pourquoi il est crucial de rester sur la bonne voie lors de la replanification.
       Grâce à la planification en temps réel, les planificateurs pourront orienter
