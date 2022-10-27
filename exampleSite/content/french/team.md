@@ -18,7 +18,7 @@ team_member:
   - icon: fab fa-linkedin
     link: "#"
 - name: Louis-Martin Rousseau, PhD
-  image: images/team/03.jpg
+  image: "/images/lmr.jpg"
   designation: Conseiller Fondateur Scientifique
   group: Conseillers
   social:
