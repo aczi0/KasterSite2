@@ -135,7 +135,7 @@ achivement:
 workflow:
   enable: true
   title: Créer des plans de production réalisables et optimaux
-  image: images/screenshots/03.png
+  image: "/images/front_page.png"
   content: N'estimez pas votre chemin vers des standard de production inférieures.
     Laissez Kaster vous aider dans votre processus de décision et planifiez plus rapidement,
     mieux et en toute confiance.
