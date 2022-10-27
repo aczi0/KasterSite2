@@ -72,7 +72,7 @@ homepage_tab:
       link: how-it-works
   - name: Optimisation des quarts de travail
     title: Optimisation des quarts de travail
-    image: images/screenshots/04.png
+    image: "/images/shift_gray.png"
     content: Dans une période de pénurie de main-d'oeuvre, une ressource sous-utilisée
       est une perte de tous les côtés. Avec Kaster, vous pouvez vous assurer que vos
       horaires de main-d'œuvre qualifiée et vos horaires de production sont adaptés
