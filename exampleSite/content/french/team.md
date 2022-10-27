@@ -4,7 +4,7 @@ description: this is meta description
 layout: team
 team_member:
 - name: Alexandre Clarizio, ing., M.Sc.A(c)
-  image: images/team/01.jpg
+  image: "/images/alex-portrait.jpg"
   designation: CEO
   group: Gestion
   social:
