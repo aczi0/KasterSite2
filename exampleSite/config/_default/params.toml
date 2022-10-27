@@ -7,7 +7,7 @@ favicon = "images/favicon2.png"
 favicon_16x16 = "images/favicon2.png"
 favicon_32x32 = "images/favicon2.png"
 image = "images/logo2.png"
-logo = "images/logo2.png"
+logo = "images/logo_nobg.JPG"
 logo_text = "Kaster Technologies"
 logo_width = ""
 [cookies]
