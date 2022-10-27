@@ -32,7 +32,7 @@ team_member:
   - icon: fab fa-linkedin
     link: ''
 - name: Philippe Lussier
-  image: images/team/05.jpg
+  image: "/images/phil.jpg"
   designation: High Tech Sales Advisor
   group: Advisors
   social:
