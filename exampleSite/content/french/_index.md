@@ -84,7 +84,7 @@ homepage_tab:
       link: how-it-works
   - name: Gestion des Perturbations
     title: Gestion des Perturbations
-    image: images/screenshots/04.png
+    image: "/images/update-objectives.png"
     content: Avec l'aide de Kaster, les planificateurs seront en mesure de gérer en
       toute confiance les perturbations opérationnelles et pourront ajuster leurs
       plans en conséquence. Qu'il s'agisse de retards de production, d'absentéisme
