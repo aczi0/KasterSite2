@@ -129,7 +129,7 @@ achivement:
 workflow:
   enable: true
   title: Create attainable and optimal **production plans**
-  image: images/screenshots/03.png
+  image: "/images/front_page.png"
   content: Don't guesstimate your way into lower production standards. Let Kaster
     help with your decision process and plan faster, better and with confidence.
 about_us:
