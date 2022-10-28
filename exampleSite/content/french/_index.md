@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: "**Planification robuste et agile** de la production pour les CDMOs."
+  title: "**Planification agile** de la production pour les CDMOs."
   content: "**Kaster** est un logiciel de planification intelligent fait pour la planification
     et l'ordonnancement de la production. Allouez vos ressources et maximisez votre
     volume de production en quelques secondes grâce à l'IA. Nous dotons vos planificateurs
