@@ -9,7 +9,7 @@ banner:
     immédiatement."
   image: "/images/real-time-gray.png"
   video:
-    enable: true
+    enable: false
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
   form:
     enable: true
