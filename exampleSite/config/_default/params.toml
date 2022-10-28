@@ -1,6 +1,6 @@
 apple_touch_icon = "images/favicon2.png"
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/f/xnqrglzo"
 custom_script = ""
 description = "Kaster Technologies inc."
 favicon = "images/favicon2.png"
