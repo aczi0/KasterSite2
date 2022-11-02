@@ -13,7 +13,7 @@ banner:
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
   form:
     enable: true
-    form_acttion: "#"
+    form_action: "#"
     button_label: Demander une Démo
   button:
     enable: false
