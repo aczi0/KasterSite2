@@ -12,7 +12,7 @@ banner:
     video_embed_link: https://www.youtube.com/embed/dyZcRRWiuuw
   form:
     enable: true
-    form_acttion: https://formspree.io/f/myylrarv
+    form_action: https://formspree.io/f/myylrarv
     button_label: Request Demo
   button:
     enable: false
