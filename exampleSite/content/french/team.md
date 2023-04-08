@@ -10,13 +10,6 @@ team_member:
   social:
   - icon: fab fa-linkedin
     link: "#"
-- name: Marvin Nguyen
-  image: "/images/marvin.jpg"
-  designation: Architecte de logiciel
-  group: Developpeur
-  social:
-  - icon: fab fa-linkedin
-    link: "#"
 - name: Louis-Martin Rousseau, PhD
   image: "/images/lmr.jpg"
   designation: Conseiller Fondateur Scientifique
