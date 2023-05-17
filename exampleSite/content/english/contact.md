@@ -17,3 +17,5 @@ services:
 
 ---
 Leave us your contact information so we can get back to you!
+
+*** If you are sending a message about <Hilda Wilson>, we are not affiliated with this person or their company. We believe it's a scam and they are phishing out banking information from job applicants. ***
