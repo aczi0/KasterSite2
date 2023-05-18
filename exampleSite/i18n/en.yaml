@@ -12,11 +12,11 @@
 - id: name
   translation: Your Name
 - id: mail
-  translation: Working Mail (Disabled)
+  translation: Working Mail 
 - id: website
   translation: Company Website
 - id: message
-  translation: Anything else? (Add your email address with your message)
+  translation: Your message (Please provide your email address so we can get back to you)
 - id: submit
   translation: Submit Now
 - id: monthly
